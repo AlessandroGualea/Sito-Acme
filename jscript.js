@@ -10,3 +10,13 @@ toggles.forEach(toggle => {
         toggle.parentNode.classList.toggle('active')
     })
 })
+
+
+function showCookie() {
+      let cookie = document.querySelector('#cookie');
+      cookie.style = "display:block;";
+    }
+function hideCookie() {
+      let cookie = document.querySelector('#cookie');
+      cookie.style = "display:none;";
+    }
