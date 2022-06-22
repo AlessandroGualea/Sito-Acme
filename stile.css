@@ -93,13 +93,11 @@ a:hover {color: rgb(250, 106, 106);}
 
 
 
-.logomio {margin: 20px auto 0px auto;
-    text-align: center;
-    color: white;}
+.logomio {text-align: center;}
 
 
-img.fotografia {display: inline-block;
-margin: 0 auto;
+img.fotografia {
+margin: 20px auto 0px auto;;
 text-align: center;
 max-width: 200px;}
 
