@@ -227,8 +227,7 @@ h1 {
   color: white;}
 
 
-#frasi {border-left: 18px solid hsl(0, 100%, 70%);
-    border-right: 18px solid hsl(0, 100%, 70%);
+#frasi {
     text-align: center;
     background-color: hsl(0, 130%, 68%);
     border-radius: 20px;
