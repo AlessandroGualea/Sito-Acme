@@ -343,7 +343,7 @@ p {color: white;}
   width: 100px;
   border-radius: 30px;
   cursor: pointer;
-  color: rgb(90, 146, 518) !important;
+  color: rgb(90, 146, 518);
 }
 #cookie{
   color: white;
