@@ -87,7 +87,7 @@ nav.active .icon .line2 {transform: rotate(765deg) translateY(-5.5px);}
 
 
 .logomio { max-width: fit-content;
-    margin: 20px auto 0px auto;
+    margin: 20px auto -5px auto;
     padding: 8px;
     text-align: center;
     color: white;}
