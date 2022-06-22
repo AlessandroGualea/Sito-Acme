@@ -99,13 +99,13 @@ a:hover {color: rgb(250, 106, 106);}
   margin-top: 50px;}
 
 #logomio {min-width: 100px;
-max-width: 250px;
+max-width: 200px;
 margin-bottom: 10px;
 margin: auto;
 text-align: center;}
 
 #imglogomio {margin: 50px auto -10px auto;
-width: 300px;
+width: 200px;
 height: auto;}
 
 
