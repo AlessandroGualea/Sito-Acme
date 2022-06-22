@@ -351,6 +351,10 @@ p {color: white;}
     margin-left: auto;
     text-align: center;}
 
+.social {max-width: 50px;
+         max-height: 50px;
+         text-align: center;}
+
 .footer {background-color: hsl(0, 0%, 10%);
     max-width: 100%;
     text-align: center;
