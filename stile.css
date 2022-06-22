@@ -16,7 +16,8 @@ body {background-color: #000000;
             float: center;
             width: 100%;
             position: fixed;
-            height: 140px;}
+            height: 140px;
+            z-index: 30;}
 
 .barraalto bandiere{position: fixed;
                     float: right;}
