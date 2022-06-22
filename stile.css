@@ -239,6 +239,9 @@ h1 {
     margin-left: auto;
     width: 90%;}
 
+#frasi div h2 {border-left: 18px solid hsl(0, 100%, 70%);
+      border-right: 18px solid hsl(0, 100%, 70%);}
+
 .faq-container {
   max-width: 600px;
   margin: 0 auto;
