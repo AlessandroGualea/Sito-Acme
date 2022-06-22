@@ -93,9 +93,8 @@ a:hover {color: rgb(250, 106, 106);}
 
 
 
-.logomio { max-width: fit-content;
+.logomio { max-width: fit-content(100px);
     margin: 20px auto 0px auto;
-    padding: 8px;
     text-align: center;
     color: white;}
 
