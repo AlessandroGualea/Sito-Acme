@@ -230,7 +230,8 @@ h1 {
   margin: 0 auto;
   color: white;}
 
-.faq {background-color: hsl(0, 0%, 10%);
+.faq {z-index: 0;
+  background-color: hsl(0, 0%, 10%);
   border: 3px solid #fff;
   border-radius: 10px;
   margin: 20px 0;
