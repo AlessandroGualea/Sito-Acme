@@ -96,9 +96,10 @@ a:hover {color: rgb(250, 106, 106);}
 .logomio {text-align: center;}
 
 
-img.fotografia {text-align: center;
+img.fotografia {float: center;
+text-align: center;
 margin: 20px auto 0px auto;
-max-width: 100px;}
+max-width: 250px;}
 
 .sottotitolo {text-align: center;}
 
