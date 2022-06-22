@@ -90,8 +90,7 @@ a:hover {color: rgb(250, 106, 106);}
       a:active {color: red;}
 
 
-.sottotitolo {text-align: center;
-margin: 20px auto 20px auto;}
+.sottotitolo {text-align: center;}
 
 .bandiere {float: right;
   max-width: 70px;
