@@ -94,11 +94,11 @@ a:hover {color: rgb(250, 106, 106);}
 
 
 .logomio {text-align: center;
-          border: 2px solid white;}
+          border: 2px solid white;
+          max-width: 190px;}
 
 
-img.fotografia {
-max-width: 190px;}
+
 
 .sottotitolo {text-align: center;}
 
