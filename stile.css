@@ -321,7 +321,8 @@ p {color: white;}
          width: 55px !important;
          background-color: hsl(0, 130%, 68%); 
          border-radius:50px; 
-         padding: 5px;}
+         padding: 5px;
+         text-align: center;}
 
 #map {border: 9px solid rgb(90, 146, 518) !important;
     width: 100%;
