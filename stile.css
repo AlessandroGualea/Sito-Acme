@@ -341,9 +341,9 @@ p {color: white;}
   bottom: 10px;
   left: 10px;
   width: 100px;
-  border-radius: 30px;
+  border-radius: 20px;
   cursor: pointer;
-  color: rgb(90, 146, 518);
+  ;
 }
 #cookie{
   color: white;
