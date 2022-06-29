@@ -38,7 +38,7 @@ nav {
      position: fixed;
      }
 
-nav.active {width: 320px;}
+nav.active {width: 310px;}
 
 nav ul {display: flex;
         list-style-type: none;
