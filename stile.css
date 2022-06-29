@@ -26,7 +26,7 @@ body {background-color: #000000;
 nav {
       background-color: #000000;
      padding: 18px;
-     width: 70px;
+     width: 60px;
      display: flex;
      align-items: left;
      justify-content: left;
@@ -35,7 +35,7 @@ nav {
      overflow-x: hidden;
      float: left;
      position: fixed;
-     margin-top: 2%;}
+     }
 
 nav.active {width: 340px;}
 
