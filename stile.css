@@ -23,7 +23,7 @@ body {background-color: #000000;
 .barraalto bandiere{position: fixed;
                     float: right;}
 
-nav {margin-top: 1%;
+nav {margin-top: auto;
      background-color: #000000;
      padding: 18px;
      width: 60px;
