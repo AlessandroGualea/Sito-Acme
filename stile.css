@@ -12,7 +12,7 @@ body {background-color: #000000;
       background-image:url('https://cdn.statically.io/img/i.pinimg.com/originals/dc/00/79/dc00790dca42ef1ed8adabdb0a0ab958.jpg');
                        background-size: 100%;}
 
-#barraalto {
+.barraalto {
             background-color: hsl(0, 0%, 0%);
             float: center;
             width: 100%;
@@ -20,7 +20,7 @@ body {background-color: #000000;
             height: 130px;
             z-index: 20;}
 
-#barraalto bandiere{position: fixed;
+.barraalto bandiere{position: fixed;
                     float: right;}
 
 nav {
