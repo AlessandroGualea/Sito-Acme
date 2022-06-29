@@ -12,12 +12,12 @@ body {background-color: #000000;
       background-image:url('https://cdn.statically.io/img/i.pinimg.com/originals/dc/00/79/dc00790dca42ef1ed8adabdb0a0ab958.jpg');
                        background-size: 100%;}
 
-.barraalto {margin-top: -2,5%;
+.barraalto {
             background-color: hsl(0, 0%, 0%);
             float: center;
             width: 100%;
             position: fixed;
-            height: 120px;
+            height: auto;
             z-index: 20;}
 
 .barraalto bandiere{position: fixed;
